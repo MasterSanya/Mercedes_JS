@@ -1,19 +1,6 @@
 const lists = document.querySelectorAll('.feature-sub')
 const btns = document.querySelectorAll('.feature__link')
 
-// btn.addEventListener('click', () => console.log('Click!'))
-// btn.addEventListener('click', () => {
-//     console.log('2!')
-//     console.log('4!')
-// })
-
-// for (let i = 0; i < btns.length; i++) {
-//     btns[i].addEventListener('click', () => console.log(btns[i]))
-// }
-// btns.forEach((btnItem, index) => {
-//     btnItem.addEventListener('click', () => console.log(btnItem))
-// })
-
 // From lesson:
 // btns.forEach((btnItem, index) => {
 //     btnItem.addEventListener('click', () => {
